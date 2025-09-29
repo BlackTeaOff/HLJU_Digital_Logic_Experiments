@@ -1,0 +1,12 @@
+|Block1
+S <= inst10.DB_MAX_OUTPUT_PORT_TYPE
+Ai => inst10.IN0
+Ai => inst.IN1
+Bi => inst6.IN0
+Bi => inst8.IN0
+Ci => inst6.IN1
+Ci => inst8.IN1
+Ci1 <= inst9.DB_MAX_OUTPUT_PORT_TYPE
+M => inst.IN0
+
+
