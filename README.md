@@ -1,1 +1,2 @@
-# HLJU_Digital_Logic_Experiments
+# 黑龙江大学数字逻辑实验
+按照黑龙江大学2024年9月编写的数字逻辑实验指导而设计
